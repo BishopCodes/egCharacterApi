@@ -1,0 +1,64 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Ender Wiggin",
+      "commanderId": 9
+    },
+    {
+      "id": 2,
+      "name": "Alai",
+      "commanderId": 1
+    },
+    {
+      "id": 3,
+      "name": "Bean",
+      "commanderId": 1
+    },
+    {
+      "id": 4,
+      "name": "Dink Meeker",
+      "commanderId": 1
+    },
+    {
+      "id": 5,
+      "name": "Petra Arkanian",
+      "commanderId": 1
+    },
+    {
+      "id": 6,
+      "name": "Bonzo Madrid",
+      "commanderId": 7
+    },
+    {
+      "id": 7,
+      "name": "Sergeant Dap",
+      "commanderId": 11
+    },
+    {
+      "id": 8,
+      "name": "Major Anderson",
+      "commanderId": 11
+    },
+    {
+      "id": 9,
+      "name": "Mazer Rackham",
+      "commanderId": 11
+    },
+    {
+      "id": 10,
+      "name": "Major Anderson",
+      "commanderId": 11
+    },
+    {
+      "id": 11,
+      "name": "Colonel Hyrum Graff",
+      "commanderId": 12
+    },
+    {
+      "id": 12,
+      "name": "Admiral Chamrajnagar",
+      "commanderId": -1
+    },
+  ]
+}
